@@ -3,7 +3,6 @@ import bs4
 import requests
 import urllib3
 from urllib3.exceptions import InsecureRequestWarning
-import json
 
 # Instancia de Flask
 app = Flask(__name__)
